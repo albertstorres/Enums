@@ -1,0 +1,15 @@
+C:\dev\dotnet\EstudoBase\Enums\bin\Debug\net8.0\Enums.exe
+C:\dev\dotnet\EstudoBase\Enums\bin\Debug\net8.0\Enums.deps.json
+C:\dev\dotnet\EstudoBase\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\Enums\bin\Debug\net8.0\Enums.dll
+C:\dev\dotnet\EstudoBase\Enums\bin\Debug\net8.0\Enums.pdb
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\Enums.sourcelink.json
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\Enums.dll
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\refint\Enums.dll
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\Enums.pdb
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\Enums\obj\Debug\net8.0\ref\Enums.dll
